@@ -26,8 +26,8 @@
          <div class="container">
             <h3><strong>내 아이들</strong>에게 <strong>좋은것</strong>만 선물해주세요 !</h3>
             <p> <strong>좋은 성분</strong>의 제품만을 보여드리는 저희 <strong>ForMyPets</strong>에 오신 것을 환영합니다. </p>
-            <a class="btn btn-primary btn-pull" href="df.jsp" role="button">좋은 사료 성분 보러가기</a>
-            <a class="btn btn-primary btn-pull" href="snack.jsp" role="button">좋은 간식 성분 보러가기</a>
+            <a class="btn btn-primary btn-pull" href="product.do?category=F" role="button">좋은 사료 보러가기</a>
+            <a class="btn btn-primary btn-pull" href="product.do?category=S" role="button">좋은 간식 보러가기</a>
          </div>
       </div>
    </div>

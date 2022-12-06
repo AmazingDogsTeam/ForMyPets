@@ -55,10 +55,10 @@ a, a:hover {
 		}
 	</script>
 
-	<h2>Dogs Snack</h2>
+	<h2 align="center">Dogs Snack</h2>
 	<br>
 	
-	<table border="1" width="1050">
+	<table border="1" width="1050" align="center">
 		<tr align="center">
 			<td>
 				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'ALL');" checked="checked">전체
@@ -79,7 +79,7 @@ a, a:hover {
 	</table>
 	
 	<br>
-	<table border="1">
+	<table border="1" align="center">
 		<%
 			for (int i = 0; i < pInfoList.size(); i++) {
 				if (i % 3 == 0) {
@@ -128,7 +128,7 @@ a, a:hover {
 				out.println("<tr align='center'>");
 				out.println("<td>");
 				//두 줄로 쓰기, 닫는 큰 따옴표와 괄호 옆의 띄어쓰기 필수
-				out.println("<input type='button' value='성분 보러가기' ");
+				out.println("<button onclick=\"location.href='SnackIngre.do?page="+ i +"'\" >성분 보러가기</button>");
 				out.println("</td>");
 				out.println("</tr>");
 

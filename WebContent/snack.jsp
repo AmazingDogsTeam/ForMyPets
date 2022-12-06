@@ -132,11 +132,6 @@ a, a:hover {
 				out.println("</td>");
 				out.println("</tr>");
 
-				out.println("<tr align='center'>");
-				out.println("<td>");
-				out.println("<b>" + " " + "<br>");
-				out.println("</td>");
-				out.println("</tr>");
 				out.println("</table>");
 				out.println("</td>");
 

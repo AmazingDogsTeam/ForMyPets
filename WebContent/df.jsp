@@ -128,6 +128,8 @@ img {
 			out.println("<td>");
 			//두 줄로 쓰기, 닫는 큰 따옴표와 괄호 옆의 띄어쓰기 필수
 			out.println("<button onclick=\"location.href='FoodIngre.do?page="+ i +"'\" >성분 보러가기</button>");
+			
+			
 			out.println("</td>");
 			out.println("</tr>");
 			

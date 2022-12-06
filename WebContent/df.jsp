@@ -85,11 +85,11 @@ img {
 				out.println("<tr align='center'>");
 			}
 			out.println("<td>");
-			out.println("	<table>");
-			out.println("	<tr align='center'>");
-			out.println("	<td>");
-			out.println("	<img src = 'foodImg/" + pInfoList.get(i).getImgPath() + "' width='350' height='350' />");
-			out.println("	</td>");
+			out.println("<table>");
+			out.println("<tr align='center'>");
+			out.println("<td>");
+			out.println("<img src = 'foodImg/" + pInfoList.get(i).getImgPath() + "' width='350' height='350' />");
+			out.println("</td>");
 			out.println("</tr>");
 
 			out.println("<tr align='center'>");

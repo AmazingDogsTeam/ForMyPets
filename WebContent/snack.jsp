@@ -61,19 +61,19 @@ a, a:hover {
 	<table border="1" width="1050" align="center">
 		<tr align="center">
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'ALL');" checked="checked">전체
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'ALL');" checked="checked"><strong>전체</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'A');" <% if("A".equals(property)) {%> checked="checked" <%}%> >다이어트
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'A');" <% if("A".equals(property)) {%> checked="checked" <%}%> ><strong>다이어트</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'B');" <% if("B".equals(property)) {%> checked="checked" <%}%> >피부
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'B');" <% if("B".equals(property)) {%> checked="checked" <%}%> ><strong>피부</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'E');" <% if("E".equals(property)) {%> checked="checked" <%}%> >관절
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'E');" <% if("E".equals(property)) {%> checked="checked" <%}%> ><strong>관절</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'F');" <% if("F".equals(property)) {%> checked="checked" <%}%>>소화
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('S', 'F');" <% if("F".equals(property)) {%> checked="checked" <%}%>><strong>소화</strong>
 			</td>
 		<tr>
 	</table>

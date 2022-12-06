@@ -60,19 +60,19 @@ img {
 	<table border="1" width="1050" align='center'>
 		<tr align="center"> 
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'ALL');" checked="checked">전체
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'ALL');" checked="checked"><strong>전체</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'A');" <% if("A".equals(property)) {%> checked="checked" <%}%> >다이어트
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'A');" <% if("A".equals(property)) {%> checked="checked" <%}%> ><strong>다이어트</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'B');" <% if("B".equals(property)) {%> checked="checked" <%}%>>피부
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'B');" <% if("B".equals(property)) {%> checked="checked" <%}%>><strong>피부</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'C');" <% if("C".equals(property)) {%> checked="checked" <%}%>>저알러지
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'C');" <% if("C".equals(property)) {%> checked="checked" <%}%>><strong>저알러지</strong>
 			</td>
 			<td>
-				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'D');" <% if("D".equals(property)) {%> checked="checked" <%}%>>고단백
+				<input type="radio" name="property" onclick="javascript:fncSearchProduct('F', 'D');" <% if("D".equals(property)) {%> checked="checked" <%}%>><strong>고단백</strong>
 			</td>
 		<tr>
 	</table>

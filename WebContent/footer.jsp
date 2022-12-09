@@ -4,9 +4,9 @@
 <nav id='wrap'>
 <footer>
           <nav>
-              <a href='#' target='_blank'>이용약관</a> |
-              <a href='#' target='_blank'>개인정보처리방침</a> |
-              <a href='#' target='_blank'>페이지 소개</a>
+              <a href='useInfo.jsp' target='_blank'>이용약관</a> |
+              <a href='personalInfo.jsp' target='_blank'>개인정보처리방침</a> |
+              <a href='pageIntro.jsp' target='_blank'>페이지 소개</a>
           </nav><br>
           <p>
               <span>대표번호 : 02-0399-4239 </span>

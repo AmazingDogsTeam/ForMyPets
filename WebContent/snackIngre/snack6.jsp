@@ -15,13 +15,12 @@
 <%@ include file="../../../header.jsp" %>
 
 <br>
-<h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<h2 align="center">
 <strong>올박스 파머스니블스</strong></h2>
 <br>
-   <table border="2" width="1120" height="190" align="center">
-   <tr align="left">
-      <td><font size="4">
+   <table border="2" width="1010" height="155" align="center">
+   <tr align="center">
+      <td><font size="3">
       올박스는 공장식으로 찍어내는 OEM 방식이 아닌, 호주 정부의 허가를 받은 자체 설비에서 직접 생산하는 브랜드입니다. <br>
       이 제품은 노글루텐, 노그레인으로 반려견이 제품을 소화시키는 데에 걸림이 될만한 성분을 아예 배제했습니다. <br>
       또한 96시간동안 저온에서 최소한의 가공으로 천천히 생산해 영양분의 손실이 최소회되었습니다. <br>
@@ -34,7 +33,7 @@
 <br>
 <DIV style ="text-align:center";>
             <img src="snackImg/snack6_1.png"
-            style="width:630px; height:230px;">
+            style="width:570px; height:230px;">
 </DIV>
 
 

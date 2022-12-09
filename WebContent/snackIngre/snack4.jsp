@@ -15,13 +15,12 @@
 <%@ include file="../../../header.jsp" %>
 
 <br>
-<h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<h2 align="center">
 <strong>포틀랜드 펫푸드 습식 토퍼</strong></h2>
 <br>
-   <table border="2" width="960" height="220" align="center">
-   <tr align="left">
-      <td><font size="4">
+   <table border="2" width="900" height="190" align="center">
+   <tr align="center">
+      <td><font size="3">
       이 제품은 육류, 채소, 과일, 계란을 적절한 비율로 배합해 만들어진 한 입 크기의 토퍼로 <br>
       사료에 토핑용으로도 사용 가능하며 한 입 크기의 간식으로도 급여할 수 있습니다. <br>
       식이 알러지가 있는 아이들에게도 급여할 수 있도록 하는 것이 이 브랜드의 목적이라 <br>
@@ -36,7 +35,7 @@
 <br>
 <DIV style ="text-align:center";>
             <img src="snackImg/snack4_1.png"
-            style="width:650px; height:280px;"> 
+            style="width:600px; height:280px;"> 
 </DIV>
 
 

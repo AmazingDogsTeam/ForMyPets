@@ -15,13 +15,12 @@
 <%@ include file="../../../header.jsp" %>
 
 <br>
-<h2>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+<h2 align="center">
 <strong>지위픽 램이어 구강간식</strong></h2>
 <br>
-   <table border="2" width="1050" height="200" align="center">
-   <tr align="left">
-      <td><font size="4">
+   <table border="2" width="975" height="175" align="center">
+   <tr align="center">
+      <td><font size="3">
       이 제품은 청정지역인 뉴질랜드 초원에서 신선한 풀을 먹고 자란 양의 귀에 간을 코팅하여 천천히 부드럽게 건조시킨 제품입니다. <br>
       에어드라이 기법으로 모든 영양분이 보존되어 있습니다. 국내 제품들의 경우 닭이나 오리가 주성분인 간식이 많은데 <br> 
       이 제품은 고단백인 양이 주성분이기 때문에 새로운 단백질원을 경험시켜 줄 수 있습니다. <br> 
@@ -34,7 +33,7 @@
 <br>
 <DIV style ="text-align:center";>
             <img src="snackImg/snack2_1.png"
-            style="width:800px; height:200px;"> 
+            style="width:800px; height:180px;"> 
 </DIV>
 
 

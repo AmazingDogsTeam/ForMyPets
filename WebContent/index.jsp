@@ -39,9 +39,7 @@
             <li data-target="#myCarousel" data-slide-to="1"></li>
             <li data-target="#myCarousel" data-slide-to="2"></li>
          </ol>
-         
-         
-      <!-- <div class="carousel-inner"> 이게 있으면 사진 슬라이드가 되는데 사진 크기 조정이 안되는데요,, -->
+        
          <div class="carousel-inner">
             <div class="item active" > <!-- active 현재 선택 -->
                <img src="img/1.png" width="500px;" height="auto;" />

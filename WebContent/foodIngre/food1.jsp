@@ -7,7 +7,7 @@
 <link rel="stylesheet" href="../css/footer.css">
 <title>오픈팜 동결건조 돼지고기</title>
    <style>
-         img { display: block; margin: 0px auto; }
+         img { display: block; margin: 0px auto; } 
    </style>
 </head>
 <body>
